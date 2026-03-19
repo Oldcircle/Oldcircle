@@ -7,7 +7,6 @@ Builder. Made a lot of things — from the Trace App to 50+ open source projects
 | Project | Description |
 |---------|-------------|
 | [StoryForge](https://github.com/Oldcircle/storyforge) | AI-powered comic & short drama platform — one sentence to one episode |
-| [Trace](https://github.com/Oldcircle/Trace---Onboarding-Demo) | Trace App Onboarding & Demo |
 | [Trace Viewer](https://github.com/Oldcircle/trace-viewer) | Visual diagnostic tool for OpenClaw agent execution traces |
 | [ChromaCheck AI](https://github.com/Oldcircle/ChromaCheckAI) | AI color palette generator supporting Gemini, DeepSeek, and OpenAI |
 | [LinkStream](https://github.com/Oldcircle/LinkStream) | Phone-PC sync assistant |
