@@ -1,33 +1,33 @@
-# Hey, I'm 袁博 (Yuan Bo) 👋
+# Hey, I'm Yuan Bo 👋
 
-Builder. 做过很多东西——从 Trace App 到 50+ 开源项目。
+Builder. Made a lot of things — from the Trace App to 50+ open source projects.
 
 ## Building
 
 | Project | Description |
 |---------|-------------|
-| [StoryForge](https://github.com/Oldcircle/storyforge) | AI 漫剧/短剧智能制作平台 — 一句话生成一集短剧 |
+| [StoryForge](https://github.com/Oldcircle/storyforge) | AI-powered comic & short drama platform — one sentence to one episode |
 | [Trace](https://github.com/Oldcircle/Trace---Onboarding-Demo) | Trace App Onboarding & Demo |
-| [Trace Viewer](https://github.com/Oldcircle/trace-viewer) | OpenClaw agent 执行追踪可视化工具 |
-| [ChromaCheck AI](https://github.com/Oldcircle/ChromaCheckAI) | AI 调色板生成器，支持 Gemini / DeepSeek / OpenAI |
-| [LinkStream](https://github.com/Oldcircle/LinkStream) | 手机电脑协同助手 |
-| [Data Resolver](https://github.com/Oldcircle/Data-Resolver) | 非结构化数据处理工具 |
+| [Trace Viewer](https://github.com/Oldcircle/trace-viewer) | Visual diagnostic tool for OpenClaw agent execution traces |
+| [ChromaCheck AI](https://github.com/Oldcircle/ChromaCheckAI) | AI color palette generator supporting Gemini, DeepSeek, and OpenAI |
+| [LinkStream](https://github.com/Oldcircle/LinkStream) | Phone-PC sync assistant |
+| [Data Resolver](https://github.com/Oldcircle/Data-Resolver) | Unstructured data processing tool |
 
 ## Games
 
-做了 20+ 个游戏，这里是精选：
+Built 20+ games, here are the highlights:
 
 | Game | Description |
 |------|-------------|
-| [Xiangqi](https://github.com/Oldcircle/Xiangqi) | 中国象棋 AI 版本 |
-| [Gomoku](https://github.com/Oldcircle/Gomoku) | AI 五子棋 |
-| [Survivor Royale](https://github.com/Oldcircle/SurvivorRoyale) | 吃鸡大逃杀 |
-| [Mini Clash](https://github.com/Oldcircle/Mini-Clash) | 皇室战争 |
-| [Joker Poker](https://github.com/Oldcircle/JokerPoker) | 小丑牌 |
-| [Neon Survivor](https://github.com/Oldcircle/NeonSurvivor) | 打僵尸小游戏 |
-| [Alpine Escape](https://github.com/Oldcircle/Alpine-Escape) | 滑雪大冒险 |
+| [Xiangqi](https://github.com/Oldcircle/Xiangqi) | Chinese Chess with AI opponent |
+| [Gomoku](https://github.com/Oldcircle/Gomoku) | Five-in-a-row with AI |
+| [Survivor Royale](https://github.com/Oldcircle/SurvivorRoyale) | Battle royale |
+| [Mini Clash](https://github.com/Oldcircle/Mini-Clash) | Clash Royale-style strategy game |
+| [Joker Poker](https://github.com/Oldcircle/JokerPoker) | Balatro-inspired card game |
+| [Neon Survivor](https://github.com/Oldcircle/NeonSurvivor) | Zombie survival shooter |
+| [Alpine Escape](https://github.com/Oldcircle/Alpine-Escape) | Ski adventure |
 
-[→ 查看全部](https://github.com/Oldcircle?tab=repositories)
+[→ See all repos](https://github.com/Oldcircle?tab=repositories)
 
 ## Contributing to
 
@@ -40,4 +40,4 @@ Builder. 做过很多东西——从 Trace App 到 50+ 开源项目。
 
 ---
 
-华中师范大学 · [Homepage](https://oldcircle.github.io)
+Central China Normal University · [Homepage](https://oldcircle.github.io)
