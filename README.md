@@ -7,10 +7,9 @@
   <a href="https://oldcircle.github.io"><img alt="Homepage" src="https://img.shields.io/badge/homepage-oldcircle.github.io-c0412c?style=flat-square"></a>
   <a href="https://oldcircle.github.io/?lang=zh"><img alt="中文主页" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E4%B8%BB%E9%A1%B5-3a3833?style=flat-square"></a>
   <a href="https://arxiv.org/abs/2603.20017"><img alt="AACL 2026 paper" src="https://img.shields.io/badge/AACL_2026-RouterKGQA-6e6a60?style=flat-square"></a>
-  <a href="https://apps.apple.com/developer/id1873213157"><img alt="5 apps on the App Store" src="https://img.shields.io/badge/App_Store-5_apps-0d84f5?style=flat-square&logo=apple&logoColor=white"></a>
 </p>
 
-I make agent skills, developer tools and a few iOS apps. The ones I like best refuse to guess: a claim has to name the file it came from, observations are sealed before any reasoning starts, and every number is run before it goes on the page. AI master's student at Harbin Institute of Technology, Shenzhen.
+I make agent skills, developer tools and browser games. The ones I like best refuse to guess: a claim has to name the file it came from, observations are sealed before any reasoning starts, and every number is run before it goes on the page. AI master's student at Harbin Institute of Technology, Shenzhen.
 
 ## Selected work
 
